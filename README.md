@@ -1,3 +1,3 @@
 # practice-git
 
-git練習本
+**git練習本**
